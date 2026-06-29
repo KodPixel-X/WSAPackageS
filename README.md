@@ -1,1 +1,1 @@
-WSApackages is the official wsa packages
+Official WSA packages are available here.
